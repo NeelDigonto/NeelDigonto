@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikat Dey</h1>
-<h3 align="center">Well I have 2+ years of experience in full stack web dev, aws and currently learning "deep learning".</h3>
+<h3 align="center">I have 2+ years of experience in full stack web dev, aws and currently writing a WebgGPU based cross-platform Graphics and/or Robot simulator.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notfathomless&label=Profile%20views&color=0e75b6&style=flat" alt="notfathomless" /> </p>
 
